@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning React/Redux-UI/UX
+- 🤔 I’m looking for help with Deep Learning Models 
+- 📫 How to reach me: hello@lokin.dev
 <!--
 **alphabetagamer/alphabetagamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
