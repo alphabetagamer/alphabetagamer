@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React/Redux-UI/UX
+- 🌱 I’m currently learning React-UI/UX
 - 🤔 I’m looking for help with Deep Learning Models 
 - 📫 How to reach me: hello@lokin.dev
 <!--
