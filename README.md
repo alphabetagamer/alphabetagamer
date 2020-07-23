@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Lokin's github stats](https://github-readme-stats.alphabetagamer.vercel.app/api?username=alphabetagamer&show_icons=true)
+![Lokin's github stats](https://github-readme-stats-git-master.alphabetagamer.vercel.app/api?username=alphabetagamer&show_icons=true&userrepo=alphabetahome)
 
 
 <p align="center">
