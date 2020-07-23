@@ -1,5 +1,5 @@
 
-<img src="img/lokin.gif"  width=auto height="150">
+<img src="https://github.com/alphabetagamer/alphabetagamer/blob/master/img/lokin.gif"  width=auto height="150">
 
 
 ### Hi there 👋
