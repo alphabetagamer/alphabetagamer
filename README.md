@@ -1,3 +1,7 @@
+
+<img src="img/lokin.gif"  width=auto height="150">
+
+
 ### Hi there 👋
 - 🌱 I’m currently learning React-UI/UX
 - 🤔 I’m looking for help with Deep Learning Models 
@@ -16,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![Lokin's github stats](https://github-readme-stats.alphabetagamer.vercel.app/api?username=alphabetagamer&show_icons=true)
 
 
