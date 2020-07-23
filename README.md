@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Lokin's github stats](https://github-readme-stats.vercel.app/api?username=alphabetagamer&show_icons=true)
+![Lokin's github stats](https://github-readme-stats.alphabetagamer.vercel.app/api?username=alphabetagamer&show_icons=true)
 
 
 <p align="center">
